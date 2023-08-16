@@ -17,3 +17,4 @@ Others: Jest, REST
 typescript javascript react redux html5 css3 ant.design MUI bootstrap git nodejs express postgresql postman CLI jest figma
 
 Connect with me:
+https://t.me/vladivadi
